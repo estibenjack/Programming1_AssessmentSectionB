@@ -3,7 +3,7 @@ package p1;
 // for debugging: import java.util.Arrays;
 
 /**
- * Steven Jackson (40153515)
+ * Steven J****** (********)
  * 
  * int[][] temperatures = { 
            {15, 18, 20, 22, 19, 21, 23, 17, 16, 18 },         // Tokyo
