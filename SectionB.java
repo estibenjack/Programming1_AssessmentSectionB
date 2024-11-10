@@ -21,7 +21,7 @@ String[] cityNames = new String[]{ "Tokyo", "New York", "Moscow", "Sydney",
             "London", "Dubai", "Toronto", "Berlin", "Rome" };
  * 
  */
-public class StevenJackson40153515 {
+public class WeatherData {
 
 	public static void main(String[] args) {
 		
